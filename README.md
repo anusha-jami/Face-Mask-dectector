@@ -1,6 +1,6 @@
 # Face-Mask-dectector
 Using Keras, OpenCV, Python
-Real-time face mask detection using Python. This project was done as a part of my internship at The Sparks Foundation - Graduate Rotational Internship Program in July 2021. I have made a real-time face mask detector, that detects a person is wearing a face mask or not.
+This project Real-time face mask detection using Python is done as a part of my internship at The Sparks Foundation - Graduate Rotational Internship Program for the month February 2022. This is a real-time face mask detector, that detects a person is wearing a face mask or not.
 
 # IDE used
 Jupyter notebook using TensorFlow backend
